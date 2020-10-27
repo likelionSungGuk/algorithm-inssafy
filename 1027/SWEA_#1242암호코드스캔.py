@@ -55,3 +55,39 @@ for code in arr:
     codes_arr.append(codes)
     codes = []
 
+pwd_bin = []
+for row in codes_arr:
+    output = ''
+    for i in row:
+        for j in range(3, -1, -1):
+            if i & (1<<j):
+                output+='1'
+            else:
+                output+='0'
+    pwd_bin.append(output)
+
+"""
+뒤에서부터 1을 만나면 연속으로 만나는 1의 개수 저장하고 그 다음 0을 만나면 0의 개수 저장
+이 과정을 4번 한 다음에 비율을 봐서 최소값을 구한다 
+예를 들어, 6:2:2:4 라면 2가 최소값이므로 2로 나눠준 다음
+해당 비율의 암호값을 찾는다.
+"""
+result = []
+for row in pwd_bin:
+    cnt_0 = 0
+    cnt_1 = 0
+    temp = []
+    for i in range(len(row), -1, -1):
+        if row[i:i+1] == '1' and row[i-1:i] == '1':
+            cnt_1 += 1
+
+        elif row[i:i+1] == '1' and row[i-1:i] != '1':
+            temp.append(cnt_1)
+            cnt_1 = 1
+        elif row[i:i+1] == '0' and row[i-1:i] == 0:
+            cnt_0 += 1
+        elif row[i:i+1] == '0' and row[i-1:i] != 0:
+            temp.append(cnt_0)
+            cnt_0 = 1
+    result.append(temp)
+print(result)
