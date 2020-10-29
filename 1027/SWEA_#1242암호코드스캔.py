@@ -72,22 +72,8 @@ for row in codes_arr:
 예를 들어, 6:2:2:4 라면 2가 최소값이므로 2로 나눠준 다음
 해당 비율의 암호값을 찾는다.
 """
-result = []
 for row in pwd_bin:
-    cnt_0 = 0
-    cnt_1 = 0
-    temp = []
-    for i in range(len(row), -1, -1):
-        if row[i:i+1] == '1' and row[i-1:i] == '1':
-            cnt_1 += 1
+    print(row)
 
-        elif row[i:i+1] == '1' and row[i-1:i] != '1':
-            temp.append(cnt_1)
-            cnt_1 = 1
-        elif row[i:i+1] == '0' and row[i-1:i] == 0:
-            cnt_0 += 1
-        elif row[i:i+1] == '0' and row[i-1:i] != 0:
-            temp.append(cnt_0)
-            cnt_0 = 1
-    result.append(temp)
-print(result)
+def scan(arr):
+    for row in arr:
