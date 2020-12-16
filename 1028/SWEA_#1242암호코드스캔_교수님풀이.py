@@ -70,6 +70,7 @@ def search(N, M, b):
                 j -= 1
     return s
 
+
 T = int(input())
 for tc in range(1, T+1):
     N, M = map(int, input().split())

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550e9767-f1eb-4434-9d99-3be49acf1f36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1028/서울_3반_조성국_SWEA_#최대상금.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1028/SWEA_#1242암호코드스캔_교수님풀이.py" beforeDir="false" afterPath="$PROJECT_DIR$/1028/SWEA_#1242암호코드스캔_교수님풀이.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1030/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1030/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,137 +13,157 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/algorithm_inssafy$3.coverage" NAME="동철이3 Coverage Results" MODIFIED="1604154381179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1031" />
-    <SUITE FILE_PATH="coverage/algorithm_inssafy$2.coverage" NAME="동철이2 Coverage Results" MODIFIED="1604131644697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1030" />
-    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__4008.coverage" NAME="SWEA_#4008숫자만들기 Coverage Results" MODIFIED="1604064519715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1030" />
-    <SUITE FILE_PATH="coverage/algorithm_inssafy$.coverage" NAME="머지소트 Coverage Results" MODIFIED="1604307312676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1102" />
-    <SUITE FILE_PATH="coverage/algorithm_inssafy$_3__SWEA__.coverage" NAME="서울_3반_조성국_SWEA_#최대상금 Coverage Results" MODIFIED="1603982738386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1028" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1605700028245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1030" />
     <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__1865.coverage" NAME="SWEA_#1865동철이의일분배 Coverage Results" MODIFIED="1604040787527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1030" />
-    <SUITE FILE_PATH="coverage/algorithm_inssafy$test.coverage" NAME="test Coverage Results" MODIFIED="1604233619110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1030" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__5658.coverage" NAME="SWEA_#5658보물상자비밀번호 Coverage Results" MODIFIED="1607049332824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__1949.coverage" NAME="SWEA_#1949등산로조성 Coverage Results" MODIFIED="1604813004669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1108" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__2382.coverage" NAME="SWEA_#2382미생물격리 Coverage Results" MODIFIED="1607783307488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
     <SUITE FILE_PATH="coverage/algorithm_inssafy$_3__SWEA___.coverage" NAME="서울_3반_조성국_SWEA_#최대 상금 Coverage Results" MODIFIED="1603986972392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1028" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$MST.coverage" NAME="MST Coverage Results" MODIFIED="1604478561430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1104" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__61092048.coverage" NAME="SWEA_#6109추억의2048게임 Coverage Results" MODIFIED="1607065212772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$2.coverage" NAME="디저트카페2 Coverage Results" MODIFIED="1605340725937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1108" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$_3__SWEA__.coverage" NAME="서울_3반_조성국_SWEA_#최적경로 Coverage Results" MODIFIED="1604412900624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1103" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__4012.coverage" NAME="SWEA_#4012요리사 Coverage Results" MODIFIED="1607184288749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__2115.coverage" NAME="SWEA_#2115벌꿀채취 Coverage Results" MODIFIED="1606974795479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__1873.coverage" NAME="SWEA_#1873상호의배틀필드 Coverage Results" MODIFIED="1606876923468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$3.coverage" NAME="동철이3 Coverage Results" MODIFIED="1604154381179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1031" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__1953.coverage" NAME="SWEA_#1953탈주범 Coverage Results" MODIFIED="1604668433096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1106" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__4008.coverage" NAME="SWEA_#4008숫자만들기 Coverage Results" MODIFIED="1604064519715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1030" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$__17471.coverage" NAME="백준_#17471게리맨더링 Coverage Results" MODIFIED="1605451774566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1108" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$_.coverage" NAME="최소신장트리_온라인풀이 Coverage Results" MODIFIED="1604643016486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1106" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__4014.coverage" NAME="SWEA_#4014활주로건설 Coverage Results" MODIFIED="1607174817260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__2105.coverage" NAME="SWEA_#2105디저트카페 Coverage Results" MODIFIED="1605337213521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1108" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$1208_.coverage" NAME="1208_특강 Coverage Results" MODIFIED="1607610524054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__5215.coverage" NAME="SWEA_#5215햄버거다이어트 Coverage Results" MODIFIED="1606962999743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$.coverage" NAME="상원이의생일파티 Coverage Results" MODIFIED="1604482290221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1104" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__5250.coverage" NAME="SWEA_#5250최소비용 Coverage Results" MODIFIED="1604636690091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1106" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__1249.coverage" NAME="SWEA_#1249보급로 Coverage Results" MODIFIED="1604650653377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1106" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$SWEA__1868.coverage" NAME="SWEA_#1868파핑파핑지뢰찾기 Coverage Results" MODIFIED="1606894584013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A+" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$_3__SWEA__5209.coverage" NAME="서울_3반_조성국_SWEA_#5209최소생산비용 Coverage Results" MODIFIED="1604413585902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1103" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$test.coverage" NAME="test Coverage Results" MODIFIED="1605451476157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1108" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$Algo1__3_.coverage" NAME="Algo1_서울_3반_조성국 Coverage Results" MODIFIED="1604883986430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algo" />
+    <SUITE FILE_PATH="coverage/algorithm_inssafy$Algo2__3_.coverage" NAME="Algo2_서울_3반_조성국 Coverage Results" MODIFIED="1604886964536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algo" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1590690338">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.3" value="13" />
+          <entry key="project.open.time.4" value="17" />
+          <entry key="project.open.time.5" value="8" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="21" />
-          <entry key="txt" value="2" />
+          <entry key="SWEA_#1873상호의배틀필드" value="1" />
+          <entry key="py" value="68" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="21" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
-          <entry key="py" value="13661" />
+          <entry key="SWEA_#1873상호의배틀필드" value="1457" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="52511" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="13661" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="53968" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1030/동철이2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1108/백준_#17471게리맨더링.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1030/숫자만들기3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1031/동철이3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" selection-start-line="7" selection-end-line="30" />
+            <state relative-caret-position="324">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <marker date="1604154412179" expanded="true" signature="54:77" ph="..." />
-                <marker date="1604154412179" expanded="true" signature="93:349" ph="..." />
+                <marker date="1605451857686" expanded="true" signature="312:582" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1031/동철이_신상훈.py">
+        <entry file="file://$PROJECT_DIR$/A+/SWEA_#2115벌꿀채취.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+            <state relative-caret-position="189">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1030/동철이.txt">
+        <entry file="file://$PROJECT_DIR$/A+/벌꿀채취_해설.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="11" selection-end-line="939" />
+            <state relative-caret-position="486">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <marker date="1607004420059" expanded="true" signature="760:953" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1030/test.py">
+        <entry file="file://$PROJECT_DIR$/A+/SWEA_#4012요리사.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1102/퀵소트.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="270">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1102/머지소트.py">
+        <entry file="file://$PROJECT_DIR$/A+/1208_특강.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state relative-caret-position="1539">
+              <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1102/백트래킹_nqueen.py">
+        <entry file="file://$PROJECT_DIR$/A+/SWEA_#2382미생물격리.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="710">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <marker date="1607783305751" expanded="true" signature="254:474" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A+/cook.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A+/SWEA_#6109추억의2048게임.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -158,6 +180,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>N</find>
+      <find>result</find>
+      <find>NR</find>
+      <find>k</find>
+      <find>adj</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,10 +205,44 @@
         <option value="$PROJECT_DIR$/1030/동철이2.py" />
         <option value="$PROJECT_DIR$/1031/동철이3.py" />
         <option value="$PROJECT_DIR$/1031/동철이_신상훈.py" />
-        <option value="$PROJECT_DIR$/1030/test.py" />
         <option value="$PROJECT_DIR$/1102/백트래킹_nqueen.py" />
-        <option value="$PROJECT_DIR$/1102/퀵소트.py" />
         <option value="$PROJECT_DIR$/1102/머지소트.py" />
+        <option value="$PROJECT_DIR$/1102/퀵소트.py" />
+        <option value="$PROJECT_DIR$/1103/서울_3반_조성국_SWEA_#최적경로.py" />
+        <option value="$PROJECT_DIR$/1103/서울_3반_조성국_SWEA_#5209최소생산비용.py" />
+        <option value="$PROJECT_DIR$/1104/서로소_상호배타집합.py" />
+        <option value="$PROJECT_DIR$/1104/MST.py" />
+        <option value="$PROJECT_DIR$/1104/상원이의생일파티.py" />
+        <option value="$PROJECT_DIR$/1106/연산_온라인풀이.py" />
+        <option value="$PROJECT_DIR$/1106/SWEA_#5250최소비용.py" />
+        <option value="$PROJECT_DIR$/1106/최소신장트리_온라인풀이.py" />
+        <option value="$PROJECT_DIR$/1106/SWEA_#5251최소이동거리(다익스트라).py" />
+        <option value="$PROJECT_DIR$/1106/SWEA_#1249보급로.py" />
+        <option value="$PROJECT_DIR$/1106/SWEA_#1953탈주범.py" />
+        <option value="$PROJECT_DIR$/SWEA_#1949등산로조성.py" />
+        <option value="$PROJECT_DIR$/1108/SWEA_#1949등산로조성.py" />
+        <option value="$PROJECT_DIR$/1108/desert.txt" />
+        <option value="$PROJECT_DIR$/1028/SWEA_#1242암호코드스캔_교수님풀이.py" />
+        <option value="$PROJECT_DIR$/Algo/Algo1_서울_3반_조성국.py" />
+        <option value="$PROJECT_DIR$/Algo/Algo2_서울_3반_조성국.py" />
+        <option value="$PROJECT_DIR$/1108/SWEA_#2105디저트카페.py" />
+        <option value="$PROJECT_DIR$/1108/디저트카페2.py" />
+        <option value="$PROJECT_DIR$/1108/test.py" />
+        <option value="$PROJECT_DIR$/1108/백준_#17471게리맨더링.py" />
+        <option value="$PROJECT_DIR$/1030/test.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#1873상호의배틀필드" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#1868파핑파핑지뢰찾기.py" />
+        <option value="$PROJECT_DIR$/A+/hamburger.txt" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#5215햄버거다이어트.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#2115벌꿀채취.py" />
+        <option value="$PROJECT_DIR$/A+/배틀필드 해설.py" />
+        <option value="$PROJECT_DIR$/A+/벌꿀채취_해설.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#5658보물상자비밀번호.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#6109추억의2048게임.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#4014활주로건설.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#4012요리사.py" />
+        <option value="$PROJECT_DIR$/A+/1208_특강.py" />
+        <option value="$PROJECT_DIR$/A+/SWEA_#2382미생물격리.py" />
       </list>
     </option>
   </component>
@@ -205,7 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,29 +276,30 @@
             <path>
               <item name="algorithm-inssafy" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-inssafy" type="462c0819:PsiDirectoryNode" />
-              <item name="1030" type="462c0819:PsiDirectoryNode" />
+              <item name="1108" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-inssafy" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-inssafy" type="462c0819:PsiDirectoryNode" />
-              <item name="1031" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-inssafy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-inssafy" type="462c0819:PsiDirectoryNode" />
-              <item name="1102" type="462c0819:PsiDirectoryNode" />
+              <item name="A+" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MyCar_20201201/Template_Python/Bot_Python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sung kook\algorithm-inssafy\1108" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -252,8 +313,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.머지소트">
-    <configuration name="머지소트" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SWEA_#2382미생물격리">
+    <configuration name="1208_특강" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-inssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +322,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1102" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1102/머지소트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/1208_특강.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="동철이2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_#2382미생물격리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-inssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,12 +344,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1030" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030/동철이2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/SWEA_#2382미생물격리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="숫자만들기2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_#4012요리사" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-inssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,12 +366,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1030" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030/숫자만들기2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/SWEA_#4012요리사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="숫자만들기3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_#4014활주로건설" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-inssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,12 +388,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1030" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030/숫자만들기3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/SWEA_#4014활주로건설.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="동철이3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SWEA_#6109추억의2048게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-inssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,56 +410,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1031" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1031/동철이3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="퀵소트" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm-inssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1102" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1102/퀵소트.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm-inssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1030" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1030/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/SWEA_#6109추억의2048게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,17 +425,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.동철이2" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.숫자만들기3" />
-      <item itemvalue="Python.머지소트" />
+      <item itemvalue="Python.SWEA_#6109추억의2048게임" />
+      <item itemvalue="Python.SWEA_#4014활주로건설" />
+      <item itemvalue="Python.SWEA_#4012요리사" />
+      <item itemvalue="Python.1208_특강" />
+      <item itemvalue="Python.SWEA_#2382미생물격리" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.머지소트" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.동철이2" />
-        <item itemvalue="Python.숫자만들기3" />
+        <item itemvalue="Python.SWEA_#2382미생물격리" />
+        <item itemvalue="Python.1208_특강" />
+        <item itemvalue="Python.SWEA_#4012요리사" />
+        <item itemvalue="Python.SWEA_#4014활주로건설" />
+        <item itemvalue="Python.SWEA_#6109추억의2048게임" />
       </list>
     </recent_temporary>
   </component>
@@ -439,27 +458,27 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48642778" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Run" order="5" weight="0.4035181" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15351813" />
@@ -492,130 +511,37 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1028/서울_3반_조성국_SWEA_#최대상금.py" />
-    <entry file="file://$PROJECT_DIR$/1028/서울_3반_조성국_SWEA_#5201컨테이너운반.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1028/서울_3반_조성국_SWEA_#5202화물도크.py">
+    <entry file="file://$PROJECT_DIR$/1103/서울_3반_조성국_SWEA_#최적경로.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1028/서울_3반_조성국_SWEA_#5189전자카트(조합-내장함수).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/최대상금교수님풀이.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1028/SWEA_#4366정식이의 은행업무.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1028/SWEA_#5189전자카트(조합-재귀).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/SWEA_#4008숫자만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/숫자만들기2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1031/동철이2.py" />
-    <entry file="file://$PROJECT_DIR$/1030/sample_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="1" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/SWEA_#1865동철이의일분배.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1028/서울_3반_조성국_SWEA_#최대 상금.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/동철이2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/숫자만들기3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1031/동철이3.py">
+    <entry file="file://$PROJECT_DIR$/1103/서울_3반_조성국_SWEA_#5209최소생산비용.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="30" />
-          <folding>
-            <marker date="1604154412179" expanded="true" signature="54:77" ph="..." />
-            <marker date="1604154412179" expanded="true" signature="93:349" ph="..." />
-          </folding>
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1031/동철이_신상훈.py">
+    <entry file="file://$PROJECT_DIR$/1102/퀵소트.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="540">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1030/동철이.txt">
+    <entry file="file://$PROJECT_DIR$/1105/백준_#2667단지번호붙이기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="11" selection-end-line="939" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        <state relative-caret-position="459">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1102/머지소트.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
+        <state relative-caret-position="817">
           <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
@@ -627,10 +553,305 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1102/퀵소트.py">
+    <entry file="file://$PROJECT_DIR$/1106/탈주범.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="11" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1104/서로소_상호배타집합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1104/MST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1106/SWEA_#5251최소이동거리(다익스트라).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1106/서울_3반_조성국_SWEA_#5250최소비용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/sample_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/SWEA_#1949등산로조성.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1103/서울_3반_조성국_SWEA_#5204병합정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1105/백준_#4963섬의개수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1031/동철이_신상훈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1106/연산_온라인풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1031/동철이_교수님풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1030/숫자만들기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo/Algo2_서울_3반_조성국.py" />
+    <entry file="file://$PROJECT_DIR$/Algo/Algo1_서울_3반_조성국.py" />
+    <entry file="file://$PROJECT_DIR$/1028/SWEA_#1242암호코드스캔_교수님풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="63" column="48" lean-forward="true" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1106/SWEA_#1953탈주범.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1106/SWEA_#1249보급로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1105/서울_3반_조성국_SWEA_#5247연산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/SWEA_#2105디저트카페.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/디저트카페2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/desert.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" selection-end-line="104" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1103/SWEA_#5204병합정렬_교수님풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1103/서울_3반_조성국_SWEA_#5205퀵정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1106/최소신장트리_온라인풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1030/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/hamburger.txt" />
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#5215햄버거다이어트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/배틀필드 해설.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#1873상호의배틀필드">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#1868파핑파핑지뢰찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#5658보물상자비밀번호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/honey.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/airplane.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1593">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#4014활주로건설.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/bio.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#2115벌꿀채취.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/벌꿀채취_해설.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <marker date="1607004420059" expanded="true" signature="760:953" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#4012요리사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/1208_특강.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/cook.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#6109추억의2048게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A+/SWEA_#2382미생물격리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <marker date="1607783305751" expanded="true" signature="254:474" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1108/백준_#17471게리맨더링.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1605451857686" expanded="true" signature="312:582" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
